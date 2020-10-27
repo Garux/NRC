@@ -51,4 +51,16 @@ UV Tool on brush faces, copy, paste texture seamlessly (m3, ctrl + m3)
 UV Tool on curve
 ![UV Tool on curve](gifs/1uvtool_curve.gif)
 
+<br />
+<br />
+
+Creating brush arch via CSG Tool and texturing it simply by seamless texture paste
+[![Creating brush arch via CSG Tool and texturing it simply by seamless texture paste](https://img.youtube.com/vi/qA9eNOkD1iY/0.jpg)](https://www.youtube.com/watch?v=qA9eNOkD1iY)
+
+<br />
+<br />
+
+Creating Brush Spiral Staircase and Texturing it
+[![Creating Brush Spiral Staircase and Texturing it](https://img.youtube.com/vi/QeiDOeAwAkw/0.jpg)](https://www.youtube.com/watch?v=QeiDOeAwAkw)
+
 
