@@ -1,3 +1,3 @@
 # NRC
 
-[index_examples.md](./index_examples.html)
+[index_examples.md](./index_examples.md)
