@@ -65,13 +65,13 @@ UV Tool on curve
 
 Creating brush arch via CSG Tool and texturing it simply by seamless texture paste
 
-[![Creating brush arch via CSG Tool and texturing it simply by seamless texture paste](https://img.youtube.com/vi/qA9eNOkD1iY/0.jpg)](https://www.youtube.com/watch?v=qA9eNOkD1iY)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/qA9eNOkD1iY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 <br />
 
 Creating Brush Spiral Staircase and Texturing it
 
-[![Creating Brush Spiral Staircase and Texturing it](https://img.youtube.com/vi/QeiDOeAwAkw/0.jpg)](https://www.youtube.com/watch?v=QeiDOeAwAkw)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/QeiDOeAwAkw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
