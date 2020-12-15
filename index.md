@@ -63,6 +63,13 @@ UV Tool on curve
 <br />
 <br />
 
+Some editing techniques
+
+![Some editing techniques](gifs/24someTech.gif)
+
+<br />
+<br />
+
 Creating brush arch via CSG Tool and texturing it simply by seamless texture paste
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/qA9eNOkD1iY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
