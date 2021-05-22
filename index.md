@@ -70,6 +70,34 @@ Some editing techniques
 <br />
 <br />
 
+Use of curve.thicken
+
+![Some editing techniques](gifs/24patchThicken.gif)
+
+<br />
+<br />
+
+Brush.autocaulk
+
+![Some editing techniques](gifs/25autocaulk.gif)
+
+<br />
+<br />
+
+Creating curve of brushes (extrude, merge)
+
+![Some editing techniques](gifs/26brushCurve.gif)
+
+<br />
+<br />
+
+Bending patch pipe by Transform tool
+
+![Some editing techniques](gifs/29patchPipe.gif)
+
+<br />
+<br />
+
 Creating brush arch via CSG Tool and texturing it simply by seamless texture paste
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/qA9eNOkD1iY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
