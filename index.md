@@ -1,6 +1,10 @@
 # Features presentation
 
-Editing in 3D viewport
+<h3 id="Editing in 3D viewport">
+    <a href="#Editing in 3D viewport">
+        Editing in 3D viewport
+    </a>
+</h3>
 
 ![Editing in 3D viewport](gifs/15edit3D.gif)
 
@@ -18,98 +22,154 @@ Editing in 3D viewport
 <br />
 <br />
 
-Insert brush vertices arbitrarily
+<h3 id="Insert brush vertices arbitrarily">
+    <a href="#Insert brush vertices arbitrarily">
+        Insert brush vertices arbitrarily
+    </a>
+</h3>
 
 ![Insert brush vertices arbitrarily](gifs/19insertBrushVerts.gif)
 
 <br />
 <br />
 
-Delete brush vertices, edges
+<h3 id="Delete brush vertices, edges">
+    <a href="#Delete brush vertices, edges">
+        Delete brush vertices, edges
+    </a>
+</h3>
 
 ![Delete brush vertices, edges](gifs/22delComponents.gif)
 
 <br />
 <br />
 
-Extrude brush face inside, mass extrusion of selected brush faces (ctrl + alt + m1)
+<h3 id="Extrude brush face inside, mass extrusion of selected brush faces (ctrl + alt + m1)">
+    <a href="#Extrude brush face inside, mass extrusion of selected brush faces (ctrl + alt + m1)">
+        Extrude brush face inside, mass extrusion of selected brush faces (ctrl + alt + m1)
+    </a>
+</h3>
 
 ![Extrude brush face inside, mass extrusion of selected brush faces (ctrl + alt + m1)](gifs/23dragDiagExtrude.gif)
 
 <br />
 <br />
 
-Mass extrusion of selected brush faces (ctrl + alt + m1)
+<h3 id="Mass extrusion of selected brush faces (ctrl + alt + m1)">
+    <a href="#Mass extrusion of selected brush faces (ctrl + alt + m1)">
+        Mass extrusion of selected brush faces (ctrl + alt + m1)
+    </a>
+</h3>
 
 ![Mass extrusion of selected brush faces (ctrl + alt + m1)](gifs/extrude-short.gif)
 
 <br />
 <br />
 
-Texture UV lock during vertex editing, transforms repeating (ctrl + r)
+<h3 id="Texture UV lock during vertex editing, transforms repeating (ctrl + r)">
+    <a href="#Texture UV lock during vertex editing, transforms repeating (ctrl + r)">
+        Texture UV lock during vertex editing, transforms repeating (ctrl + r)
+    </a>
+</h3>
 
 ![Texture UV lock during vertex editing, transforms repeating (ctrl + r)](gifs/Peek_2020-01-18_22-44.gif)
 
 <br />
 <br />
 
-UV Tool on brush faces, copy, paste texture seamlessly (m3, ctrl + m3)
+<h3 id="UV Tool on brush faces, copy, paste texture seamlessly (m3, ctrl + m3)">
+    <a href="#UV Tool on brush faces, copy, paste texture seamlessly (m3, ctrl + m3)">
+        UV Tool on brush faces, copy, paste texture seamlessly (m3, ctrl + m3)
+    </a>
+</h3>
 
 ![UV Tool on brush faces, copy, paste texture seamlessly (m3, ctrl + m3)](gifs/20uvtool.gif)
 
 <br />
 <br />
 
-UV Tool on curve
+<h3 id="UV Tool on curve">
+    <a href="#UV Tool on curve">
+        UV Tool on curve
+    </a>
+</h3>
 
 ![UV Tool on curve](gifs/1uvtool_curve.gif)
 
 <br />
 <br />
 
-Some editing techniques
+<h3 id="Some editing techniques">
+    <a href="#Some editing techniques">
+        Some editing techniques
+    </a>
+</h3>
 
 ![Some editing techniques](gifs/24someTech.gif)
 
 <br />
 <br />
 
-Use of curve.thicken
+<h3 id="Use of curve.thicken">
+    <a href="#Use of curve.thicken">
+        Use of curve.thicken
+    </a>
+</h3>
 
 ![Some editing techniques](gifs/24patchThicken.gif)
 
 <br />
 <br />
 
-Brush.autocaulk
+<h3 id="Brush.autocaulk">
+    <a href="#Brush.autocaulk">
+        Brush.autocaulk
+    </a>
+</h3>
 
 ![Some editing techniques](gifs/25autocaulk.gif)
 
 <br />
 <br />
 
-Creating curve of brushes (extrude, merge)
+<h3 id="Creating curve of brushes (extrude, merge)">
+    <a href="#Creating curve of brushes (extrude, merge)">
+        Creating curve of brushes (extrude, merge)
+    </a>
+</h3>
 
 ![Some editing techniques](gifs/26brushCurve.gif)
 
 <br />
 <br />
 
-Bending patch pipe by Transform tool
+<h3 id="Bending patch pipe by Transform tool">
+    <a href="#Bending patch pipe by Transform tool">
+        Bending patch pipe by Transform tool
+    </a>
+</h3>
 
 ![Some editing techniques](gifs/29patchPipe.gif)
 
 <br />
 <br />
 
-Creating brush arch via CSG Tool and texturing it simply by seamless texture paste
+<h3 id="Creating brush arch via CSG Tool and texturing it simply by seamless texture paste">
+    <a href="#Creating brush arch via CSG Tool and texturing it simply by seamless texture paste">
+        Creating brush arch via CSG Tool and texturing it simply by seamless texture paste
+    </a>
+</h3>
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/qA9eNOkD1iY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 <br />
 
-Creating Brush Spiral Staircase and Texturing it
+<h3 id="Creating Brush Spiral Staircase and Texturing it">
+    <a href="#Creating Brush Spiral Staircase and Texturing it">
+        Creating Brush Spiral Staircase and Texturing it
+    </a>
+</h3>
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/QeiDOeAwAkw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
