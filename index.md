@@ -8,7 +8,7 @@ Editing in 3D viewport
 <br />
 
 <h3 id="CGS wrap merge brushes, faces, edges, vertices, clipper points">
-    <a href="CGS wrap merge brushes, faces, edges, vertices, clipper points">
+    <a href="#CGS wrap merge brushes, faces, edges, vertices, clipper points">
         CGS wrap merge brushes, faces, edges, vertices, clipper points
     </a>
 </h3>
