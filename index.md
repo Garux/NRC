@@ -88,6 +88,17 @@
 <br />
 <br />
 
+<h3 id="Brush <-> patch seamless texture paste (m3, ctrl + m3)">
+    <a href="#Brush <-> patch seamless texture paste (m3, ctrl + m3)">
+        Brush <-> patch seamless texture paste (m3, ctrl + m3)
+    </a>
+</h3>
+
+![Brush <-> patch seamless texture paste (m3, ctrl + m3)](gifs/32brush2patch2brush.gif)
+
+<br />
+<br />
+
 <h3 id="UV Tool on curve">
     <a href="#UV Tool on curve">
         UV Tool on curve
