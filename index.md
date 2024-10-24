@@ -55,6 +55,19 @@
 <br />
 <br />
 
+<h3 id="Simple arch creation">
+    <a href="#Simple arch creation">
+        Simple arch creation
+    </a>
+</h3>
+
+Using extrude (ctrl + alt + m1), wrap merge (ctrl + u), direct vertex edit (alt + m1).
+
+![Simple arch creation](gifs/33archSimpler.gif)
+
+<br />
+<br />
+
 <h3 id="Mass extrusion of selected brush faces (ctrl + alt + m1)">
     <a href="#Mass extrusion of selected brush faces (ctrl + alt + m1)">
         Mass extrusion of selected brush faces (ctrl + alt + m1)
