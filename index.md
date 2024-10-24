@@ -182,7 +182,7 @@
     </a>
 </h3>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/qA9eNOkD1iY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="990" height="560" src="https://www.youtube.com/embed/qA9eNOkD1iY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 <br />
@@ -193,6 +193,6 @@
     </a>
 </h3>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/QeiDOeAwAkw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="990" height="560" src="https://www.youtube.com/embed/QeiDOeAwAkw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
