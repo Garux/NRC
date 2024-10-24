@@ -127,7 +127,7 @@
     </a>
 </h3>
 
-![Some editing techniques](gifs/24patchThicken.gif)
+![Use of curve.thicken](gifs/24patchThicken.gif)
 
 <br />
 <br />
@@ -138,7 +138,7 @@
     </a>
 </h3>
 
-![Some editing techniques](gifs/25autocaulk.gif)
+![Brush.autocaulk](gifs/25autocaulk.gif)
 
 <br />
 <br />
@@ -149,7 +149,7 @@
     </a>
 </h3>
 
-![Some editing techniques](gifs/26brushCurve.gif)
+![Creating curve of brushes (extrude, merge)](gifs/26brushCurve.gif)
 
 <br />
 <br />
@@ -160,7 +160,18 @@
     </a>
 </h3>
 
-![Some editing techniques](gifs/29patchPipe.gif)
+![Bending patch pipe by Transform tool](gifs/29patchPipe.gif)
+
+<br />
+<br />
+
+<h3 id="Snap selection bbox corner to pointed position in scene (m1 + ctrl)">
+    <a href="#Snap selection bbox corner to pointed position in scene (m1 + ctrl)">
+        Snap selection bbox corner to pointed position in scene (m1 + ctrl)
+    </a>
+</h3>
+
+![Snap selection bbox corner to pointed position in scene (m1 + ctrl)](gifs/34snapByBBox.gif)
 
 <br />
 <br />
