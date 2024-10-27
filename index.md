@@ -189,6 +189,17 @@ Using extrude (ctrl + alt + m1), wrap merge (ctrl + u), direct vertex edit (alt 
 <br />
 <br />
 
+<h3 id="BBox rotate-snap (m1 + alt + ctrl), move along plane (m1 + ctrl + shift)">
+    <a href="#BBox rotate-snap (m1 + alt + ctrl), move along plane (m1 + ctrl + shift)">
+        BBox rotate-snap (m1 + alt + ctrl), move along plane (m1 + ctrl + shift)
+    </a>
+</h3>
+
+![BBox rotate-snap (m1 + alt + ctrl), move along plane (m1 + ctrl + shift)](gifs/35rotateSnap_planeMove.gif)
+
+<br />
+<br />
+
 <h3 id="Creating brush arch via CSG Tool and texturing it simply by seamless texture paste">
     <a href="#Creating brush arch via CSG Tool and texturing it simply by seamless texture paste">
         Creating brush arch via CSG Tool and texturing it simply by seamless texture paste
